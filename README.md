@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalabhange&label=Profile%20views&color=0e75b6&style=flat" alt="vishalabhange" /> </p>
 
-- 🌱 I’m currently learning **React js, C++**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **Javascript, Scss**
+- 💬 Ask me about **Mern stack**
 
 - 📫 How to reach me **bloggervishal00@gmail.com**
 
